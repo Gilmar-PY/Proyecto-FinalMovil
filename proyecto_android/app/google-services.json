@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "912399453620",
+    "project_id": "quecocino-f63e1",
+    "storage_bucket": "quecocino-f63e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912399453620:android:a3d587016914d4d92376e1",
+        "android_client_info": {
+          "package_name": "com.tuempresa.quecocino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912399453620-0fvojlvju0higpnj1phjfl79kgtoa0o2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuempresa.quecocino",
+            "certificate_hash": "dab14dc96807357b082cef35b559a084b2f54b9a"
+          }
+        },
+        {
+          "client_id": "912399453620-nlbuqft5p3ff6mo1rhf3553utkfqkfab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuempresa.quecocino",
+            "certificate_hash": "6c6884e657b6fced4f73a99c5e4c2724cf96d2aa"
+          }
+        },
+        {
+          "client_id": "912399453620-u1ek9klicmv4kji7r63p5q92vi5f64rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuempresa.quecocino",
+            "certificate_hash": "fb3019f1e35f1d6a21aa7d4ed2f7f3de196e5806"
+          }
+        },
+        {
+          "client_id": "912399453620-l5dm1khai33qbuepu7bbhesciedvm1l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJFS69j293kuar-J5M5Lnul9t-mRUJIgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912399453620-l5dm1khai33qbuepu7bbhesciedvm1l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

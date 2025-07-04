@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912399453620",
+    "firebase_url": "https://quecocino-f63e1-default-rtdb.firebaseio.com",
+    "project_id": "quecocino-f63e1",
+    "storage_bucket": "quecocino-f63e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912399453620:android:a3d587016914d4d92376e1",
+        "android_client_info": {
+          "package_name": "com.tuempresa.quecocino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912399453620-6qgkul0c9uon6nt8677p6nsgvggcmnks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuempresa.quecocino",
+            "certificate_hash": "83a8a5d743e9881a8b57d441abbc153ad99e85d5"
+          }
+        },
+        {
+          "client_id": "912399453620-l5dm1khai33qbuepu7bbhesciedvm1l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJFS69j293kuar-J5M5Lnul9t-mRUJIgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912399453620-l5dm1khai33qbuepu7bbhesciedvm1l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
